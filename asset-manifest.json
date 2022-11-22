@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eeae84f8.chunk.css",
+    "main.js": "/static/js/main.824034fe.chunk.js",
+    "main.js.map": "/static/js/main.824034fe.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.578247d7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.578247d7.js.map",
+    "static/css/2.0f33592d.chunk.css": "/static/css/2.0f33592d.chunk.css",
+    "static/js/2.1fd82afa.chunk.js": "/static/js/2.1fd82afa.chunk.js",
+    "static/js/2.1fd82afa.chunk.js.map": "/static/js/2.1fd82afa.chunk.js.map",
+    "static/js/3.debf5c51.chunk.js": "/static/js/3.debf5c51.chunk.js",
+    "static/js/3.debf5c51.chunk.js.map": "/static/js/3.debf5c51.chunk.js.map",
+    "static/js/4.ded65f37.chunk.js": "/static/js/4.ded65f37.chunk.js",
+    "static/js/4.ded65f37.chunk.js.map": "/static/js/4.ded65f37.chunk.js.map",
+    "static/js/5.10f34aee.chunk.js": "/static/js/5.10f34aee.chunk.js",
+    "static/js/5.10f34aee.chunk.js.map": "/static/js/5.10f34aee.chunk.js.map",
+    "static/js/6.4cef93f6.chunk.js": "/static/js/6.4cef93f6.chunk.js",
+    "static/js/6.4cef93f6.chunk.js.map": "/static/js/6.4cef93f6.chunk.js.map",
+    "static/js/7.6b5ec63c.chunk.js": "/static/js/7.6b5ec63c.chunk.js",
+    "static/js/7.6b5ec63c.chunk.js.map": "/static/js/7.6b5ec63c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0f33592d.chunk.css.map": "/static/css/2.0f33592d.chunk.css.map",
+    "static/css/main.eeae84f8.chunk.css.map": "/static/css/main.eeae84f8.chunk.css.map",
+    "static/js/2.1fd82afa.chunk.js.LICENSE.txt": "/static/js/2.1fd82afa.chunk.js.LICENSE.txt",
+    "static/media/fan.2987e7ff.svg": "/static/media/fan.2987e7ff.svg",
+    "static/media/logo.2d60f9fd.svg": "/static/media/logo.2d60f9fd.svg",
+    "static/media/map.3d800bc4.svg": "/static/media/map.3d800bc4.svg",
+    "static/media/motor.6579ef5b.svg": "/static/media/motor.6579ef5b.svg",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/vbelt.b79d5471.svg": "/static/media/vbelt.b79d5471.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.578247d7.js",
+    "static/css/2.0f33592d.chunk.css",
+    "static/js/2.1fd82afa.chunk.js",
+    "static/css/main.eeae84f8.chunk.css",
+    "static/js/main.824034fe.chunk.js"
+  ]
+}
