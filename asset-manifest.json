@@ -6,8 +6,8 @@
     "static/js/1.22efe16c.chunk.js": "/static/js/1.22efe16c.chunk.js",
     "static/js/1.22efe16c.chunk.js.map": "/static/js/1.22efe16c.chunk.js.map",
     "main.css": "/static/css/main.7b7b976f.chunk.css",
-    "main.js": "/static/js/main.f48f88fa.chunk.js",
-    "main.js.map": "/static/js/main.f48f88fa.chunk.js.map",
+    "main.js": "/static/js/main.31d91733.chunk.js",
+    "main.js.map": "/static/js/main.31d91733.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.955f3f39.js",
     "runtime-main.js.map": "/static/js/runtime-main.955f3f39.js.map",
     "static/css/4.0f33592d.chunk.css": "/static/css/4.0f33592d.chunk.css",
@@ -35,7 +35,7 @@
     "static/media/fan_ico.5205ecf5.svg": "/static/media/fan_ico.5205ecf5.svg",
     "static/media/logo.2d60f9fd.svg": "/static/media/logo.2d60f9fd.svg",
     "static/media/logo1.63a0ef0f.svg": "/static/media/logo1.63a0ef0f.svg",
-    "static/media/map_dark.d89ef977.svg": "/static/media/map_dark.d89ef977.svg",
+    "static/media/map_dark.fd127982.svg": "/static/media/map_dark.fd127982.svg",
     "static/media/motor.6579ef5b.svg": "/static/media/motor.6579ef5b.svg",
     "static/media/motor_ico.dd240364.svg": "/static/media/motor_ico.dd240364.svg",
     "static/media/sample.646c3416.png": "/static/media/sample.646c3416.png",
@@ -48,6 +48,6 @@
     "static/css/4.0f33592d.chunk.css",
     "static/js/4.0d81b660.chunk.js",
     "static/css/main.7b7b976f.chunk.css",
-    "static/js/main.f48f88fa.chunk.js"
+    "static/js/main.31d91733.chunk.js"
   ]
 }
